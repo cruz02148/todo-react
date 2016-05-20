@@ -1,0 +1,26 @@
+{
+  "name": "todo-react",
+  "version": "1.0.0",
+  "author": "Mike Cruz",
+  "license": "ISC",
+  "description": "Practice using React, Node, and Databases",
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/cruz02148/todo-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruz02148/todo-react.git"
+  },
+  "homepage": "https://github.com/cruz02148/todo-react#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "classnames": "^2.1.5",
+    "director": "^1.2.0",
+    "react": "^0.13.3",
+    "todomvc-app-css": "^2.0.0",
+    "todomvc-common": "^1.0.1"
+  }
+}
